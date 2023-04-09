@@ -9,6 +9,8 @@ public class SpikeShoppingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpikeShoppingApplication.class, args);
+
 	}
+
 
 }
